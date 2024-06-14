@@ -80,3 +80,9 @@ img {
 .biography_section li{
     margin-bottom: 15px;
 }
+footer{
+    margin: 50px 0px;
+}
+footer p{
+    text-align: end;
+}
